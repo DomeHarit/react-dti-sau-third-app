@@ -61,7 +61,7 @@ export default function PageG() {
       </button>
  
       <h1 className="text-center text-red-600 mt-5 font-bold text-2xl">
-        showProfile
+        {showProfile}
       </h1>
     </div>
   );
